@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+
+h2{
+    font-family: 'Acme', sans-serif;
+}
+
+h1{
+    font-family: 'IBM Plex Mono', monospace;}
+
+button{
+    border-radius: 10px;
+    background-color: rgb(0, 255, 94);
+    font-family: 'IBM Plex Mono', monospace;}
+
+    #camera{
+        width: 350;   
+        height: 350;
+        border: 2px dashed purple;
+    }
